@@ -1,0 +1,50 @@
+body {
+  background-image:linear-gradient(  skyblue,yellow), url(Gold.jpg);
+ background-blend-mode: saturation;
+  
+  background-origin:content-box;
+ 
+  background-attachment:fixed;
+ border:5px solid;
+ padding:5px;
+ margin: 3px;
+ 
+}
+
+h2 {
+  text-align: center;
+  text-decoration:none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+  border: 10px  black ;
+  
+ 
+}
+#box{
+  background-color: #C8F4B9;
+  background-attachment:fixed;
+  border:3px solid paleturquoise;
+  padding:4px;
+  width:380px;
+  height:200px;
+  box-sizing:border-box;
+  overflow: scroll;
+  text-decoration-line:none;
+  font-family: arial, Helvetica,verdana,sans-serif;
+  box-shadow:2px 2px 5px 5px grey;
+  
+
+}
+.foot{
+  text-decoration-line: none;
+  box-sizing: border-box;
+  border :2px solid tan;
+ padding: 5px;
+ margin: 5px;
+ 
+}
+
+#box p{
+  text-decoration-line:none;
+}
